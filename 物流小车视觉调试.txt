@@ -1,0 +1,4 @@
+ifconfig查ip地址
+nmcli dev wifi connect zz password gbw ifname wlan0
+python3 hsv.py 色域调节
+kill ip换卡使用
